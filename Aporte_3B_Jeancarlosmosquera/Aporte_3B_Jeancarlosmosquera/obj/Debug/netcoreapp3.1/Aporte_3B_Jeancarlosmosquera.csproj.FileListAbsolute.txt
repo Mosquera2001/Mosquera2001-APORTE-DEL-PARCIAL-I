@@ -1,0 +1,14 @@
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\bin\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.exe
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\bin\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.deps.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\bin\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\bin\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.runtimeconfig.dev.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\bin\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\bin\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Aporte\Aporte_3B_Jeancarlosmosquera\Aporte_3B_Jeancarlosmosquera\obj\Debug\netcoreapp3.1\Aporte_3B_Jeancarlosmosquera.genruntimeconfig.cache

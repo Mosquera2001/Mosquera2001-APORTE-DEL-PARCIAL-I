@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aporte_3B_Jeancarlosmosquera.Aperitivos">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAABAAAAAIQAAAAAAIAAAAgAAAAA=</HashCode>
+      <FileName>Aperitivos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Salas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Aporte_3B_Jeancarlosmosquera.Asientos">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAABAAAAAABAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Asientos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Salas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Aporte_3B_Jeancarlosmosquera.Pelicula">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAACQAABAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pelicula.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Salas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Aporte_3B_Jeancarlosmosquera.Salas">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Salas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aporte_3B_Jeancarlosmosquera.Cliente">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Asientos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Aporte_3B_Jeancarlosmosquera.Persona">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
